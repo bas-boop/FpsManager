@@ -1,0 +1,6 @@
+C:\MijnGames\PlainCode\C#\FpsManager\FpsManager\bin\Debug\FpsManager.exe
+C:\MijnGames\PlainCode\C#\FpsManager\FpsManager\bin\Debug\FpsManager.pdb
+C:\MijnGames\PlainCode\C#\FpsManager\FpsManager\obj\Debug\FpsManager.csproj.AssemblyReference.cache
+C:\MijnGames\PlainCode\C#\FpsManager\FpsManager\obj\Debug\FpsManager.csproj.CoreCompileInputs.cache
+C:\MijnGames\PlainCode\C#\FpsManager\FpsManager\obj\Debug\FpsManager.exe
+C:\MijnGames\PlainCode\C#\FpsManager\FpsManager\obj\Debug\FpsManager.pdb
